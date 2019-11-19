@@ -1,0 +1,24 @@
+
+ >>>>>>>>>>   WELCOME TO D-D ENTERTAINMENT   <<<<<<<<<<
+
+Game Version : Console 
+Game Designer : Nguyen Tan Dat Vs Nguyen Truong Duy
+
+
+
+
+
+
+
+
+
+
+	    PRESS KEY 1,2,3 OR 4 TO CHOOSE : 
+
+		          1. START GAME 
+
+		       2. GUIDE
+
+		    3. ABOUT ME
+
+		 4. EXIT[].
